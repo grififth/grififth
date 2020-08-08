@@ -14,7 +14,9 @@
 [<img align="left" alt="stevez9101@gmail.com" width="22px" src="https://img.icons8.com/nolan/64/send-mass-email.png" />][email]
 [<img align="left" alt="stevez9101@gmail.com" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
 
-[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=stephenuwu)](https://github.com/stephenuwu/github-readme-stats)
+<br />
+
+[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=stephenuwu&theme=tokyonight&show_icons=true)](https://github.com/stephenuwu/github-readme-stats)
 
 [email]: mailto:stevez9101@gmail.com
 [instagram]: https://www.instagram.com/believein.stephen/
