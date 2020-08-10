@@ -18,5 +18,10 @@
 
 [![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=stephenuwu&theme=tokyonight&show_icons=true)](https://github.com/stephenuwu/github-readme-stats)
 
+## Projects
+# Cat Photo App
+Cat Photo App is my very first Electron project. It's incredibly simple and didn't take that long but the process of making it was pretty fun.
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=stephenuwu&repo=cat-photo-app?theme=tokyonight)](https://github.com/stephenuwu/cat-photo-app)
+
 [email]: mailto:stevez9101@gmail.com
 [instagram]: https://www.instagram.com/believein.stephen/
