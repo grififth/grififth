@@ -17,7 +17,7 @@
 <br />
 
 [![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=stephenuwu&theme=tokyonight&show_icons=true)](https://github.com/stephenuwu/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenuwu?theme=nightowl)](https://github.com/stephenuwu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stephenuwu)](https://github.com/stephenuwu/github-readme-stats)
 
 [email]: mailto:stevez9101@gmail.com
 [instagram]: https://www.instagram.com/believein.stephen/
