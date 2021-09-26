@@ -16,7 +16,7 @@
 
 <br />
 
-[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=stephenuwu&theme=tokyonight&show_icons=true&hide_title=true&count_private=true)](https://github.com/stephenuwu/github-readme-stats)
+[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=grififth&theme=tokyonight&show_icons=true&hide_title=true&count_private=true)](https://github.com/stephenuwu/github-readme-stats)
 
 [email]: mailto:stevez9101@gmail.com
 [instagram]: https://www.instagram.com/believein.stephen/
