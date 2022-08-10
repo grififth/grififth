@@ -13,4 +13,4 @@ Check out my [website](https://www.stephenz.live/)
 
 [email]: mailto:stevez9101@gmail.com
 [instagram]: https://www.instagram.com/believein.stephen/
-[website]: https://grififth.github.io/
+[website]: https://www.stephenz.live/
