@@ -9,7 +9,7 @@ Check out my [website](https://www.stephenz.live/)
 
 <br />
 
-[![Stephen's github stats](https://github-readme-stats.vercel.app/api?username=grififth&theme=default&show_icons=true&hide_title=true&count_private=true)](https://github.com/grififth/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grififth)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: mailto:stevez9101@gmail.com
 [instagram]: https://www.instagram.com/believein.stephen/
