@@ -4,8 +4,6 @@ Check out my [website](https://www.stephenz.live/)
 
 ### Contact Info
 [<img align="left" alt="stevez9101@gmail.com" width="22px" src="https://img.icons8.com/nolan/64/send-mass-email.png" />][email]
-[<img align="left" alt="https://www.instagram.com/believein.stephen" width="22px" src="https://img.icons8.com/nolan/64/instagram-new.png" />][instagram]
-[<img align="left" alt="https://grififth.github.io/" width="22px" src="https://img.icons8.com/cotton/64/000000/website--v1.png" />][website]
 
 <br />
 
