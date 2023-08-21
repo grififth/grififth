@@ -5,6 +5,6 @@
 
 <br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=grififth)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szhanggg)](https://github.com/anuraghazra/github-readme-stats)
 
 [email]: mailto:stevez9101@gmail.com
